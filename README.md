@@ -38,10 +38,17 @@
 # ИЭ-п
 
 [Александр Б.](https://github.com/sasha4713)
+
 [Алена Л.](https://github.com/AlenaLotsmanova)
+
 [Кристина Н.]()
+
 [Александр О.](https://github.com/Karamax/SE)
+
 [Екатерина С.]()
+
 [Артур Т.](https://github.com/catran97)
+
 [Константин У.](https://github.com/KostyaUstyancev)
+
 [Марина Ю.](https://github.com/yudinaMarina/)
