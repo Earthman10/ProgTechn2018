@@ -41,7 +41,7 @@
 
 [Алена Л.](https://github.com/AlenaLotsmanova)
 
-[Кристина Н.]()
+[Кристина Н.](https://github.com/KristinaN98)
 
 [Александр О.](https://github.com/Karamax/SE)
 
