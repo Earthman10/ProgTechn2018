@@ -52,3 +52,18 @@
 [Константин У.](https://github.com/KostyaUstyancev)
 
 [Марина Ю.](https://github.com/yudinaMarina/)
+
+
+# ИЭ
+
+[Алена З.](https://githuyb.com/zuevaaa)
+
+[Никита П.](https://github.com/Deathmatchh)
+
+[Евгений Я.](https://github.com/EYagudin)
+
+[]()
+
+[]()
+
+[]()
