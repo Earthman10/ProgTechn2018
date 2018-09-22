@@ -56,7 +56,7 @@
 
 # ИЭ
 
-[Алена З.](https://githuyb.com/zuevaaa)
+[Алена З.](https://github.com/zuevaaa)
 
 [Никита П.](https://github.com/Deathmatchh)
 
