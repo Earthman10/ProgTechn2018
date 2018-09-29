@@ -1,14 +1,14 @@
 # ИТМ
 ## Подгруппа №1. [Организация](https://github.com/KazuraInteractive)
-[Антон Е.](https://github.com/KumikoKazura)
+[Антон Е.](https://github.com/KumikoKazura) программирование, тимлид
 
-[Алексей К.](https://github.com/DIKIY2018)
+[Алексей К.](https://github.com/DIKIY2018) сценарий, музыка
 
-[Юлия В.](https://github.com/VorobeyJ)
+[Юлия В.](https://github.com/VorobeyJ) документация
 
-[Софья О.](https://github.com/SofyaOjegova)
+[Софья О.](https://github.com/SofyaOjegova) дизайн
 
-[Кристина Х.](https://github.com/crystallixa)
+[Кристина Х.](https://github.com/crystallixa) тестировщик
 
 ## Подгрупа №2 [Организация](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
 
