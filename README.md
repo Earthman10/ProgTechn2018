@@ -39,22 +39,38 @@
 
 [Александр Б.](https://github.com/sasha4713)
 
-[Алена Л.](https://github.com/AlenaLotsmanova)
-
-[Кристина Н.](https://github.com/KristinaN98)
-
 [Александр О.](https://github.com/Karamax/SE)
 
-[Екатерина С.]()
+[Алена Л.](https://github.com/AlenaLotsmanova)
 
 [Артур Т.](https://github.com/catran97)
 
 [Константин У.](https://github.com/KostyaUstyancev)
 
-[Марина Ю.](https://github.com/yudinaMarina/)
+[Кристина Н.](https://github.com/KristinaN98)
 
+[Марина Ю.](https://github.com/yudinaMarina/)
+ 
+ ----
+
+Злобные нарушители
+* Анастасия К.
+* Андрей К.
+* _Екатерина С._
+* Ильмир У.
+* Ирина К.
+* Константин П.
+* Максим С.
+* Мария Г.
+* Надежда Б.
+* Сергей В.
+
+
+----
 
 # ИЭ
+
+----
 
 [Алена З.](https://github.com/zuevaaa)
 
