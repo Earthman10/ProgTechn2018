@@ -45,7 +45,7 @@
 
 [Артур Т.](https://github.com/catran97)
 
-[_Екатерина С._ (exchange with Сергей В.)](https://github.com/EkaterinaBeresneva/resultwinner)
+[Екатерина С. (exchange with Сергей В.)](https://github.com/EkaterinaBeresneva/resultwinner)
 
 [Константин У.](https://github.com/KostyaUstyancev)
 
