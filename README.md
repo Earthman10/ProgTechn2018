@@ -45,6 +45,8 @@
 
 [Артур Т.](https://github.com/catran97)
 
+[_Екатерина С._ (exchange with Сергей В.)](https://github.com/EkaterinaBeresneva/resultwinner)
+
 [Константин У.](https://github.com/KostyaUstyancev)
 
 [Кристина Н.](https://github.com/KristinaN98)
@@ -55,7 +57,6 @@
 
 Злобные нарушители
 * Анастасия К.  (exchange with Мария Г.)
-* _Екатерина С._ (exchange with Сергей В.)
 * Ирина К.
 * __Константин П.__ (exchange with Надежда Б.)
 * Максим С.
