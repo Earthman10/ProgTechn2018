@@ -52,6 +52,8 @@
 [Кристина Н.](https://github.com/KristinaN98)
 
 [Марина Ю.](https://github.com/yudinaMarina/)
+
+[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector)
  
  ----
 
@@ -62,7 +64,6 @@
 * Максим С.
 * Мария Г. (exchange with Анастасия К.)
 * Надежда Б. (exchange with Константин П.)
-* Сергей В. (exchange with Екатерина С.)
 
 
 ----
