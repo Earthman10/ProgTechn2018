@@ -122,6 +122,7 @@ git config --global user.email "mc@domain.com"
 
 А дальше идем в git bash и пишем
 ```
+git pull
 git rm -r --cached .
 git add -A
 git commit -m "How stupid I was..."
