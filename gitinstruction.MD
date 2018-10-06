@@ -110,7 +110,7 @@ git config --global user.email "mc@domain.com"
 
 
 # Как удалить объектные файлы
-![](ProgTechn2018/ss (1).jpg)
+![](https://raw.githubusercontent.com/MikhailChe/ProgTechn2018/master/ss%20(1).jpg)
 
 ![](ss (2).jpg)
 
