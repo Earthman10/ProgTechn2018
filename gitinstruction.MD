@@ -121,7 +121,7 @@ git config --global user.email "mc@domain.com"
 ![](https://raw.githubusercontent.com/MikhailChe/ProgTechn2018/master/ss%20(5).jpg)
 
 А дальше идем в git bash и пишем
-```
+```bash
 git pull
 git rm -r --cached .
 git add -A
