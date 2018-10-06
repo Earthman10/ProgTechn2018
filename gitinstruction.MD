@@ -119,3 +119,11 @@ git config --global user.email "mc@domain.com"
 ![](https://raw.githubusercontent.com/MikhailChe/ProgTechn2018/master/ss%20(4).jpg)
 
 ![](https://raw.githubusercontent.com/MikhailChe/ProgTechn2018/master/ss%20(5).jpg)
+
+А дальше идем в git bash и пишем
+```
+git rm -r --cached .
+git add -A
+git commit -m "How stupid I was..."
+```
+Всё хорошо. Надо бы ещё удалить эти файлы из истории репозитория, но это уже другая история.
