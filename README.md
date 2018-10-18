@@ -47,6 +47,8 @@
 
 [Екатерина С. (exchange with Сергей В.)](https://github.com/EkaterinaBeresneva/resultwinner)
 
+[Ирина К. ](https://github.com/MULTI-FACE/irisha-make)
+
 [Константин У.](https://github.com/KostyaUstyancev)
 
 [Кристина Н.](https://github.com/KristinaN98)
@@ -59,7 +61,6 @@
 
 Злобные нарушители
 * Анастасия К.  (exchange with Мария Г.)
-* Ирина К.
 * __Константин П.__ (exchange with Надежда Б.)
 * Максим С.
 * Мария Г. (exchange with Анастасия К.)
