@@ -55,7 +55,7 @@
 
 [Марина Ю.](https://github.com/yudinaMarina/)
 
-[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector)
+[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
  
  ----
 
