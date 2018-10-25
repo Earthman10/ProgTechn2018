@@ -75,14 +75,14 @@
 
 [Алена З.](https://github.com/zuevaaa)
 
+[Анастасия А.](https://github.com/NastyIE401/2)
+
 [Никита П.](https://github.com/Deathmatchh)
 
 [Евгений Я.](https://github.com/EYagudin)
 
 
 ---
-
-Анастасия А.
 
 Ирина Г.
 
