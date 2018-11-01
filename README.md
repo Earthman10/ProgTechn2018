@@ -37,7 +37,7 @@
 
 # ИЭ-п
 
-## Подгруппа №1 [Организация](https://)
+## Подгруппа №1 [Организация](https://github.com/Killing-orchestra)
 ### Игра для телеграмма: головоломалки
 
 [Александр О.](https://github.com/Karamax/SE) **TEAMLEAD, PROGRAMMER**
