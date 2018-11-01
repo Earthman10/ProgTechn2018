@@ -38,6 +38,7 @@
 # ИЭ-п
 
 ## Подгруппа №1 [Организация](https://)
+### Игра для телеграмма: головоломалки
 
 [Александр О.](https://github.com/Karamax/SE) **TEAMLEAD, PROGRAMMER**
 
@@ -58,14 +59,15 @@
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
 
 ## Подгруппа №3 [Организация](https://)
+### Приложение для прослушивания подкастов
 
-[Ирина К. ](https://github.com/MULTI-FACE/irisha-make)
+[Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, PROGRAMMER**
 
-[Кристина Н.](https://github.com/KristinaN98)
+[Кристина Н.](https://github.com/KristinaN98) **TESTING**
 
-* Надежда Б. (exchange with Константин П.)
+* Надежда Б. (exchange with Константин П.) **TESTING**
 
-* __Константин П.__ (exchange with Надежда Б.)
+* __Константин П.__ (exchange with Надежда Б.) **DOCWRTIER**
 
 ----
 
