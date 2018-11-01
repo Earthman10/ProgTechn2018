@@ -37,34 +37,42 @@
 
 # ИЭ-п
 
-[Александр Б.](https://github.com/sasha4713)
+## Подгруппа №1 [Организация](https://)
 
 [Александр О.](https://github.com/Karamax/SE)
 
 [Алена Л.](https://github.com/AlenaLotsmanova)
 
-[Артур Т.](https://github.com/catran97)
-
-[Екатерина С. (exchange with Сергей В.)](https://github.com/EkaterinaBeresneva/resultwinner)
-
-[Ирина К. ](https://github.com/MULTI-FACE/irisha-make)
+[Екатерина С.](https://github.com/EkaterinaBeresneva/resultwinner)
 
 [Константин У.](https://github.com/KostyaUstyancev)
 
-[Кристина Н.](https://github.com/KristinaN98)
-
 [Марина Ю.](https://github.com/yudinaMarina/)
 
+## Подгруппа №2 [Организация](https://) **висяк**
+
+[Александр Б.](https://github.com/sasha4713)
+
+[Артур Т.](https://github.com/catran97)
+
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
- 
- ----
+
+## Подгруппа №3 [Организация](https://)
+
+[Ирина К. ](https://github.com/MULTI-FACE/irisha-make)
+
+[Кристина Н.](https://github.com/KristinaN98)
+
+* Надежда Б. (exchange with Константин П.)
+
+* __Константин П.__ (exchange with Надежда Б.)
+
+----
 
 Злобные нарушители
 * Анастасия К.  (exchange with Мария Г.)
-* __Константин П.__ (exchange with Надежда Б.)
 * Максим С.
 * Мария Г. (exchange with Анастасия К.)
-* Надежда Б. (exchange with Константин П.)
 
 
 ----
