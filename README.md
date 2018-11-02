@@ -90,11 +90,11 @@
 
 ## Подгруппа №1 [Организация](https://)
 
-[Евгений Я.](https://github.com/EYagudin)
+[Евгений Я.](https://github.com/EYagudin) **DEVELOPER**
 
-[Артур Т.](https://github.com/catran97) (ИЭ-п)
+[Артур Т.](https://github.com/catran97) (ИЭ-п) **TESTER**
 
-* Ярослав Ш.
+* Ярослав Ш. **TEAMLEAD, DOCWRITER**
 
 
 ---
