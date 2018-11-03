@@ -52,8 +52,6 @@
 
 ## Подгруппа №2 [Организация](https://) **висяк**
 
-[Александр Б.](https://github.com/sasha4713)
-
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
 
 ## Подгруппа №3 [Организация](https://)
@@ -81,23 +79,30 @@
 
 ----
 
-[Алена З.](https://github.com/zuevaaa)
-
-[Анастасия А.](https://github.com/NastyIE401/2)
-
-[Никита П.](https://github.com/Deathmatchh)
-
-
 ## Подгруппа №1 [Организация](https://)
+### Рассылочкин
+
+* Ярослав Ш. **TEAMLEAD**
 
 [Евгений Я.](https://github.com/EYagudin) **DEVELOPER**
 
 [Артур Т.](https://github.com/catran97) (ИЭ-п) **TESTER**
 
-* Ярослав Ш. **TEAMLEAD, DOCWRITER**
+[Александр Б.](https://github.com/sasha4713) **DOCWRITER**
 
+
+
+## Подгруппа №2 [Организация](https://)
+### Игруля или плеер
+
+[Алена З.](https://github.com/zuevaaa)
+
+[Анастасия А.](https://github.com/NastyIE401/2)
 
 ---
+
+[Никита П.](https://github.com/Deathmatchh)
+
 
 Ирина Г.
 
