@@ -82,7 +82,7 @@
 ## Подгруппа №1 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### Рассылочкин
 
-* Ярослав Ш. **TEAMLEAD**
+[Ярослав Ш.](https://github.com/ykfgod/Pycharm) **TEAMLEAD**
 
 [Евгений Я.](https://github.com/EYagudin) **DEVELOPER**
 
