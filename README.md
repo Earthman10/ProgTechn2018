@@ -61,7 +61,7 @@
 
 [Кристина Н.](https://github.com/KristinaN98) **TESTING**
 
-* Надежда Б. (exchange with Константин П.) **TESTING**
+[Надежда Б.](https://github.com/belskaya/-) (exchange with Константин П.) **TESTING**
 
 * __Константин П.__ (exchange with Надежда Б.) **DOCWRTIER**
 
