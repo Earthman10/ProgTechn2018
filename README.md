@@ -53,7 +53,7 @@
 ## Подгруппа №2 [Организация](https://) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### Приложение для подготовки к ЕГЭ
 
-[Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, PROGRAMMER**
+[Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, DEVELOPER**
 
 [Кристина Н.](https://github.com/KristinaN98) **TESTING**
 
@@ -61,9 +61,10 @@
 
 * __Константин П.__ (exchange with Надежда Б.) **DOCWRTIER**
 
-## Подгруппа №3 [Организация](https://) **висяк** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **DEVOPS/POGRAMMER?**  **плагиат**
 
-[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
+
+## Подгруппа №3 [Организация](https://) **висяк** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 ----
 
