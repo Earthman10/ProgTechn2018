@@ -50,11 +50,11 @@
 
 [Марина Ю.](https://github.com/yudinaMarina/) **DOCWRITER**
 
-## Подгруппа №2 [Организация](https://) **висяк**
+## Подгруппа №2 [Организация](https://) **висяк** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
 
-## Подгруппа №3 [Организация](https://)
+## Подгруппа №3 [Организация](https://) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### Приложение для подготовки к ЕГЭ
 
 [Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, PROGRAMMER**
@@ -79,7 +79,7 @@
 
 ----
 
-## Подгруппа №1 [Организация](https://)
+## Подгруппа №1 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### Рассылочкин
 
 * Ярослав Ш. **TEAMLEAD**
@@ -92,7 +92,7 @@
 
 
 
-## Подгруппа №2 [Организация](https://)
+## Подгруппа №2 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ### Игруля или плеер
 
 [Алена З.](https://github.com/zuevaaa)
