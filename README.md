@@ -55,7 +55,7 @@
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **плагиат**
 
 ## Подгруппа №3 [Организация](https://)
-### Приложение для прослушивания подкастов
+### Приложение для подготовки к ЕГЭ
 
 [Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, PROGRAMMER**
 
