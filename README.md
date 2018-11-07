@@ -80,7 +80,7 @@
 
 ----
 
-## Подгруппа №1 [Организация](https://https://github.com/catran97/Spam)
+## Подгруппа №1 [Организация](https://github.com/catran97/Spam)
 ### Рассылочкин
 
 [Ярослав Ш.](https://github.com/ykfgod/Pycharm) **TEAMLEAD**
