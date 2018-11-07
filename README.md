@@ -80,7 +80,7 @@
 
 ----
 
-## Подгруппа №1 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+## Подгруппа №1 [Организация](https://https://github.com/catran97/Spam)
 ### Рассылочкин
 
 [Ярослав Ш.](https://github.com/ykfgod/Pycharm) **TEAMLEAD**
