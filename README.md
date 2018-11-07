@@ -55,13 +55,13 @@
 
 [Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, DEVELOPER**
 
-[Кристина Н.](https://github.com/KristinaN98) **TESTING**
+[Кристина Н.](https://github.com/KristinaN98) **TESTING, CONTENT, DOCS**
 
-[Надежда Б.](https://github.com/belskaya/-) (exchange with Константин П.) **TESTING**
+[Надежда Б.](https://github.com/belskaya/-) (exchange with Константин П.) **TESTING, CONTENT, DOCS**
 
-* __Константин П.__ (exchange with Надежда Б.) **DOCWRTIER**
+* __Константин П.__ (exchange with Надежда Б.) **DESIGNER**
 
-[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **DEVOPS/POGRAMMER?**  **плагиат**
+[Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **TESTING, CONTENT, DOCS**  **плагиат**
 
 
 ## Подгруппа №3 [Организация](https://) **висяк** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
