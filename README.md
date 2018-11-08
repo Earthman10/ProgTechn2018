@@ -94,11 +94,11 @@
 
 
 ## Подгруппа №2 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-### Игруля или плеер
+### Плеер
 
-[Алена З.](https://github.com/zuevaaa)
+[Алена З.](https://github.com/zuevaaa) **TEAMLED, DEVELOPER**
 
-[Анастасия А.](https://github.com/NastyIE401/2)
+[Анастасия А.](https://github.com/NastyIE401/2) **DOCWRITER, TESTER**
 
 ---
 
