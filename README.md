@@ -50,7 +50,7 @@
 
 [Марина Ю.](https://github.com/yudinaMarina/) **DOCWRITER**
 
-## Подгруппа №2 [Организация](https://) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+## Подгруппа №2 [Организация](https://github.com/MULTI-FACE/egeshka)
 ### Приложение для подготовки к ЕГЭ
 
 [Ирина К. ](https://github.com/MULTI-FACE/irisha-make) **TEAMLEAD, DEVELOPER**
@@ -63,12 +63,9 @@
 
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **TESTING, CONTENT, DOCS**  **плагиат**
 
-
-## Подгруппа №3 [Организация](https://) **висяк** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-
 ----
 
-Злобные нарушители
+###Злобные нарушители
 * Анастасия К.  (exchange with Мария Г.)
 * Максим С.
 * Мария Г. (exchange with Анастасия К.)
@@ -93,7 +90,7 @@
 
 
 
-## Подгруппа №2 [Организация](https://)![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+## Подгруппа №2 [Организация](https://github.com/zuevaaa/KP)
 ### Плеер
 
 [Алена З.](https://github.com/zuevaaa) **TEAMLED, DEVELOPER**
