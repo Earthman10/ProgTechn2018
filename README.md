@@ -24,12 +24,13 @@
 [Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
 
 ## Подгруппа №3 [Организация](https://github.com/PavelKunof/sea-battle)
+### Морской бой
 
-[Павел К.](https://github.com/PavelKunof/)
+[Павел К.](https://github.com/PavelKunof) **DEVELOPER**
 
-[Анна М.](https://github.com/MaximovaAnna/)
+[Анна М.](https://github.com/MaximovaAnna) **TESTER**
 
-[Мария М.](https://github.com/MaryaJonn)
+[Мария М.](https://github.com/MaryaJonn) **DOCWRITER**
 
 ## Не у дел
 
