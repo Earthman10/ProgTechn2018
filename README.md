@@ -15,13 +15,13 @@
 ## Подгрупа №2 [Организация](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
 ### Платформер для ПК
 
-[Дмитрий Ю.](https://github.com/deadmoroz583/test)
+[Дмитрий Ю.](https://github.com/deadmoroz583/test) **TEAMLEAD, DOCWRITER**
 
-[Петя Ш.](https://github.com/earthman10/gamedev)
+[Петя Ш.](https://github.com/earthman10/gamedev) **TESTER, CONCEPTUATOR**
 
-[Александр К.](https://github.com/Lofetty/ProjectPublicRep)
+[Александр К.](https://github.com/Lofetty/ProjectPublicRep) **PROGRAMMER**
 
-[Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
+[Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe) **DESIGNER, ARTIST**
 
 ## Подгруппа №3 [Организация](https://github.com/PavelKunof/sea-battle)
 ### Морской бой
