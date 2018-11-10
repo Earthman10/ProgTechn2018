@@ -1,5 +1,7 @@
 # ИТМ
 ## Подгруппа №1. [Организация](https://github.com/KazuraInteractive)
+### Платформер на Android
+
 [Антон Е.](https://github.com/KumikoKazura) программирование, тимлид
 
 [Алексей К.](https://github.com/DIKIY2018) сценарий, музыка
@@ -11,6 +13,7 @@
 [Кристина Х.](https://github.com/crystallixa) тестировщик
 
 ## Подгрупа №2 [Организация](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
+### Платформер для ПК
 
 [Дмитрий Ю.](https://github.com/deadmoroz583/test)
 
@@ -21,7 +24,7 @@
 [Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
 
 ## Подгруппа №3 [Организация](https://github.com/PavelKunof/sea-battle)
- 
+
 [Павел К.](https://github.com/PavelKunof/)
 
 [Анна М.](https://github.com/MaximovaAnna/)
