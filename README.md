@@ -50,8 +50,6 @@
 
 [Екатерина С.](https://github.com/EkaterinaBeresneva/resultwinner) **TESTER**
 
-[Константин У.](https://github.com/KostyaUstyancev) **PROGRAMMING, AUTOTESTS**
-
 [Марина Ю.](https://github.com/yudinaMarina/) **DOCWRITER**
 
 ## Подгруппа №2 [Организация](https://github.com/MULTI-FACE/egeshka)
@@ -66,6 +64,11 @@
 * __Константин П.__ (exchange with Надежда Б.) **DESIGNER**
 
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **TESTING, CONTENT, DOCS**  **плагиат**
+
+## Подгруппа №3 [Организация](https://github.com/Course-and-Co/Excel-and-Cisharp)
+### Обработка Excel файлов
+
+[Константин У.](https://github.com/KostyaUstyancev) **PROGRAMMING, AUTOTESTS**
 
 ----
 
