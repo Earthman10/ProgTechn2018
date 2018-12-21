@@ -61,7 +61,7 @@
 
 [Надежда Б.](https://github.com/belskaya/-) (exchange with Константин П.) **TESTING, CONTENT, DOCS**
 
-* __Константин П.__ (exchange with Надежда Б.) **DESIGNER**
+* [__Константин П.__](https://github.com/pshekost/shifrator) (exchange with Надежда Б.) **DESIGNER**
 
 [Сергей В. (exchange with Екатерина С.)](https://github.com/Sergey323/Arithmetic-Detector) **TESTING, CONTENT, DOCS**  **плагиат**
 
