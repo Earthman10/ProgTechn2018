@@ -32,12 +32,12 @@
 
 [Мария М.](https://github.com/MaryaJonn) **DOCWRITER**
 
+Дарья З. **DESIGNER** 
+
+
 ## Не у дел
 
 Екатерина С.
-
-Дарья З.
-
 
 # ИЭ-п
 
